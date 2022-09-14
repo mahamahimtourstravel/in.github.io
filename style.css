@@ -60,9 +60,11 @@ nav img{
     transform: translate(-50%,-50%);
     text-align: center;
 }
-.text-box h1{
-    font-size: 62px;
-
+.text-box h3 {
+    text-transform: uppercase;
+    font-size: .8rem;
+    margin-bottom: 2rem;
+    color: rgb(255, 255, 255);
 }
 .text-box p{
     margin: 10px 0 40px;
@@ -269,7 +271,7 @@ h3{
     text-align: center;
     padding: 100px 0;
 }
-.footer h4{
+.footer h3{
     color: white;
     margin-bottom: 40px;
     padding: 0;
@@ -313,7 +315,7 @@ h3{
   width: 100%;
   text-align: center;
 }
-h1 {
+h3 {
   text-transform: uppercase;
   font-size: .8rem;
   margin-bottom: 2rem;
@@ -328,11 +330,11 @@ span {
 }
 
 
-h1 {
+h3 {
     text-transform: uppercase;
     font-size: .8rem;
     margin-bottom: 2rem;
-    color: #000;
+    color: rgb(0, 0, 0);
 }
 
 
